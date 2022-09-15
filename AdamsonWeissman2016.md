@@ -20,5 +20,5 @@ Perturb-seq is applied to dissect the mammalian unfolded protein response (UPR) 
 
 
 ```
-wget https://zenodo.org/record/7041849/files/PapalexiSatija2021_eccite_protein.h5ad?download=1 -O PapalexiSatija2021_eccite_protein.h5ad
+wget https://zenodo.org/record/7041849/files/AdamsonWeissman2016_GSM2406675_10X001.h5ad?download=1 -O AdamsonWeissman2016_GSM2406675_10X001.h5ad
 ```
