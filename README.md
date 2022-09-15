@@ -12,6 +12,6 @@ conda activate sc_md
 python scperturb_markdown.py
 ```
 
-## mdutils
+## mdutils Documentation
 
 Documentation: https://mdutils.readthedocs.io/en/latest/index.html
