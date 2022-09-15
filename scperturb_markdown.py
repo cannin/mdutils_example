@@ -9,7 +9,7 @@ prefix = df['Index (=FirstauthorLastauthorYear)'].iloc[i]
 title = df['Title'].iloc[i]
 abstract = df['Mini-Abstract (loosely summarized original Abstract)'].iloc[i]
 yaml_header = f"---\nlayout: post\ntitle: {prefix}\n---\n"
-h5ad_prefix = "PapalexiSatija2021_eccite_protein"
+h5ad_prefix = "AdamsonWeissman2016_GSM2406675_10X001"
 
 img_text = "QC1.png"
 img_path = "qc_image_1.png"
